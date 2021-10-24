@@ -4,31 +4,40 @@ namespace ConsoleApp16
 {
     class Calculator
     {
-        Calculator_Model CalcModel1 = new Calculator_Model();
-                
-        public void Dodawanie(float x, float y)
+        private readonly Calculator_Model _calculator_Model;
+
+        public Calculator(Calculator_Model calculator_Model)
         {
-            CalcModel1.wynik_dodawania = x + y;
+            _calculator_Model = calculator_Model;
+        }
+                
+        private void Dodawanie(float x, float y)
+        {
+            _calculator_Model.wynik_dodawania = x + y;
             
         }
 
-        public void Odejmowanie(float x, float y)
+        private void Odejmowanie(float x, float y)
         {
-            CalcModel1.wynik_odejmowania = x - y;
+            _calculator_Model.wynik_odejmowania = x - y;
         }
 
-        public void Mnozenie(float x, float y)
+        private void Mnozenie(float x, float y)
         {
-            CalcModel1.wynik_mnozenia = x * y;
+            _calculator_Model.wynik_mnozenia = x * y;
         }
 
-        public void Dzielenie(float x, float y)
+        private void Dzielenie(float x, float y)
         {
-            CalcModel1.wynik_dzielenia = x / y;
+            _calculator_Model.wynik_dzielenia = x / y;
         }
-        public Calculator_Model GetResults()
+        public Calculator_Model GetResults(float x, float y)
         {
-            return CalcModel1;
+            Dodawanie(x, y);
+            Odejmowanie(x, y);
+            Mnozenie(x, y);
+            Dzielenie(x, y);
+            return _calculator_Model;
         }
 
     }

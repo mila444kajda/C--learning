@@ -26,3 +26,17 @@ C:\Users\ekajd\source\repos\ConsoleApp16 — kopia\ConsoleApp16\obj\Debug\netcor
 C:\Users\ekajd\source\repos\ConsoleApp16 — kopia\ConsoleApp16\obj\Debug\netcoreapp3.1\ConsoleApp16.dll
 C:\Users\ekajd\source\repos\ConsoleApp16 — kopia\ConsoleApp16\obj\Debug\netcoreapp3.1\ConsoleApp16.pdb
 C:\Users\ekajd\source\repos\ConsoleApp16 — kopia\ConsoleApp16\obj\Debug\netcoreapp3.1\ConsoleApp16.genruntimeconfig.cache
+C:\Users\dasad\source\repos\C--learning\ConsoleApp16 — kopia\ConsoleApp16\bin\Debug\netcoreapp3.1\ConsoleApp16.exe
+C:\Users\dasad\source\repos\C--learning\ConsoleApp16 — kopia\ConsoleApp16\bin\Debug\netcoreapp3.1\ConsoleApp16.deps.json
+C:\Users\dasad\source\repos\C--learning\ConsoleApp16 — kopia\ConsoleApp16\bin\Debug\netcoreapp3.1\ConsoleApp16.runtimeconfig.json
+C:\Users\dasad\source\repos\C--learning\ConsoleApp16 — kopia\ConsoleApp16\bin\Debug\netcoreapp3.1\ConsoleApp16.runtimeconfig.dev.json
+C:\Users\dasad\source\repos\C--learning\ConsoleApp16 — kopia\ConsoleApp16\bin\Debug\netcoreapp3.1\ConsoleApp16.dll
+C:\Users\dasad\source\repos\C--learning\ConsoleApp16 — kopia\ConsoleApp16\bin\Debug\netcoreapp3.1\ConsoleApp16.pdb
+C:\Users\dasad\source\repos\C--learning\ConsoleApp16 — kopia\ConsoleApp16\obj\Debug\netcoreapp3.1\ConsoleApp16.csproj.AssemblyReference.cache
+C:\Users\dasad\source\repos\C--learning\ConsoleApp16 — kopia\ConsoleApp16\obj\Debug\netcoreapp3.1\ConsoleApp16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dasad\source\repos\C--learning\ConsoleApp16 — kopia\ConsoleApp16\obj\Debug\netcoreapp3.1\ConsoleApp16.AssemblyInfoInputs.cache
+C:\Users\dasad\source\repos\C--learning\ConsoleApp16 — kopia\ConsoleApp16\obj\Debug\netcoreapp3.1\ConsoleApp16.AssemblyInfo.cs
+C:\Users\dasad\source\repos\C--learning\ConsoleApp16 — kopia\ConsoleApp16\obj\Debug\netcoreapp3.1\ConsoleApp16.csproj.CoreCompileInputs.cache
+C:\Users\dasad\source\repos\C--learning\ConsoleApp16 — kopia\ConsoleApp16\obj\Debug\netcoreapp3.1\ConsoleApp16.dll
+C:\Users\dasad\source\repos\C--learning\ConsoleApp16 — kopia\ConsoleApp16\obj\Debug\netcoreapp3.1\ConsoleApp16.pdb
+C:\Users\dasad\source\repos\C--learning\ConsoleApp16 — kopia\ConsoleApp16\obj\Debug\netcoreapp3.1\ConsoleApp16.genruntimeconfig.cache

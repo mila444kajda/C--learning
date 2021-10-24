@@ -11,16 +11,16 @@ namespace ConsoleApp16
             Console.WriteLine("Podaj drugą liczbę: ");
             float y = float.Parse(Console.ReadLine());
 
-            Calculator_Model CalcModel3 = new Calculator_Model();
+            Calculator_Model CalcModel = new Calculator_Model();
 
-            Calculator calculator1 = new Calculator(CalcModel3);
+            Calculator calc = new Calculator(CalcModel);
 
-            CalcModel3 = calculator1.GetResults(x, y);
+            CalcModel = calc.GetResults(x, y);
 
-            Console.WriteLine(CalcModel3.wynik_dodawania);
-            Console.WriteLine(CalcModel3.wynik_odejmowania);
-            Console.WriteLine(CalcModel3.wynik_mnozenia);
-            Console.WriteLine(CalcModel3.wynik_dzielenia);
+            Console.WriteLine(CalcModel.wynik_dodawania);
+            Console.WriteLine(CalcModel.wynik_odejmowania);
+            Console.WriteLine(CalcModel.wynik_mnozenia);
+            Console.WriteLine(CalcModel.wynik_dzielenia);
         }
     }
 }

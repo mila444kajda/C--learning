@@ -1,0 +1,7 @@
+C:\Users\ekajd\source\repos\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.AssemblyReference.cache
+C:\Users\ekajd\source\repos\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.CoreCompileInputs.cache
+C:\Users\ekajd\source\repos\ConsoleApp8\bin\Debug\ConsoleApp8.exe.config
+C:\Users\ekajd\source\repos\ConsoleApp8\bin\Debug\ConsoleApp8.exe
+C:\Users\ekajd\source\repos\ConsoleApp8\bin\Debug\ConsoleApp8.pdb
+C:\Users\ekajd\source\repos\ConsoleApp8\obj\Debug\ConsoleApp8.exe
+C:\Users\ekajd\source\repos\ConsoleApp8\obj\Debug\ConsoleApp8.pdb

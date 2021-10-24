@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S+SEFT6sR7TQMUZoS58iGj7W7pdladvuf+/mgv2A032Mk3q6BX3C87YD6FQY76Of4EHuRNMP8Q41bQB8qVJwzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ekajd\\source\\repos\\ConsoleApp12\\ConsoleApp12.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ekajd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

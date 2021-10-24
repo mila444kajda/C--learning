@@ -1,0 +1,5 @@
+C:\Users\ekajd\source\repos\Kalkulator_Total\Kalkulator_Total\obj\Debug\netcoreapp3.1\Kalkulator_Total.csproj.AssemblyReference.cache
+C:\Users\ekajd\source\repos\Kalkulator_Total\Kalkulator_Total\obj\Debug\netcoreapp3.1\Kalkulator_Total.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekajd\source\repos\Kalkulator_Total\Kalkulator_Total\obj\Debug\netcoreapp3.1\Kalkulator_Total.AssemblyInfoInputs.cache
+C:\Users\ekajd\source\repos\Kalkulator_Total\Kalkulator_Total\obj\Debug\netcoreapp3.1\Kalkulator_Total.AssemblyInfo.cs
+C:\Users\ekajd\source\repos\Kalkulator_Total\Kalkulator_Total\obj\Debug\netcoreapp3.1\Kalkulator_Total.csproj.CoreCompileInputs.cache
